@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_WebContorlSample_Selemium", "CS_WebContorlSample_Selemium.csproj", "{0FB00CC2-C82F-4222-AFCB-F15F2313391B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FB00CC2-C82F-4222-AFCB-F15F2313391B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FB00CC2-C82F-4222-AFCB-F15F2313391B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FB00CC2-C82F-4222-AFCB-F15F2313391B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FB00CC2-C82F-4222-AFCB-F15F2313391B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1DFD18E-9901-446D-99D2-8224AF2DBB27}
+	EndGlobalSection
+EndGlobal
